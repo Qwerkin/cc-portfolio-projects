@@ -1,0 +1,62 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "6OB4DIyY6ok",
+  "title": "AI Assisted Allergy Management",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "AI_AllergyMgmt_L05_A_V"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5gbiSoQQ28D",
+      "title": "Summit Learning",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6gIerRAtWbU",
+      "title": "Hook",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5cl6y91KuTc",
+      "title": "Child vs Adult Allergies",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5frlPxODSXT",
+      "title": "Module Title",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5zNnM4vGkqN",
+      "title": "Learning Objectives",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6CeSfiGQSKH",
+      "title": "TYK Drag and Drop",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6gjqCNvRces",
+      "title": "Answers & Follow ups",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5X7sJsIeFjk",
+      "title": "Thank You",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
